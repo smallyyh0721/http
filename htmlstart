@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>This is a test web</title>
+</head>
+
+<body style="background-color:black">
+This is a test web
+
+<p>Show image</p>
+<img src="http://b-ssl.duitang.com/uploads/item/201712/13/20171213222249_JfKTv.jpeg" alt="pic">
+
+</body>
+</html>
+root@DTRDUCLI466724:/var/www/html # more index.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>This is a test web</title>
+</head>
+
+<body style="background-color:black">
+This is a test web
+
+<p>Show image</p>
+<img src="http://b-ssl.duitang.com/uploads/item/201712/13/20171213222249_JfKTv.jpeg" alt="pic">
+
+</body>
+</html>
